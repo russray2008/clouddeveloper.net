@@ -24,6 +24,12 @@ group :jekyll_plugins do
   gem "jekyll-gist", "~> 1.5"
   gem "jekyll-assets", "~> 3.0.5"
   gem "jekyll-coffeescript", "~> 1.1.0"
+  gem "jekyll-seo-tag", "~>2.4.0"
+  gem "jekyll-sitemap", "~>1.1.0"
+  gem "jekyll-paginate", "~>1.1.0"
+  gem "jekyll-toc", "~>0.5.1"
+  gem "jekyll-s3", "~>3.2.0"
+  #gem "jekyll-utf8", "~>0.0.1"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
