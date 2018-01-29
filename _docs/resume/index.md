@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: "Resume"
 permalink: /docs/resume/
 redirect_from: /docs/resume/index.html
 ---
@@ -42,7 +42,25 @@ redirect_from: /docs/resume/index.html
 
 * Coached and encouraged project teams on the use/capability of industry tools for tracking 1.2K requirements and approximately 10K test cases in the intial launch for the re-platforming of critical components involving annuities.  This resultsed in the customization of Rational Team Concert and Application Lifecycle Management (ALM) for over 100 teams.
 
-* **Environment:** 
+* **Environment:** Eclipse 4.x, Intellij 2017.3.2, Maven-3.x, Gradle 4.x, Oracle-11-g, JDK 1.8, MS-Visio, Premier Pro CC, Tableau Desktop, Atlassian Confluence, JIRA, HP-ALM 12.x, Spring 4.x, Spring Boot 1.5.x, Liquibase 3.5.x, PostgreSQL 9.6, DBSchema 7.3.x, RazorSQL 7.x, SharePoint, MS-Office, WebLogic-10.3, Windows-10, Redhat Linux 2.6.9, IBM-RTC, Data Stage, Pencil.
+
+
+<pre><b>Bank of America (BoA), Charlotte, North Carolina</b> | <b>August 2015 -- March 2016</b>
+<b>Enterprise Solution Lead/Senior Java Developer </b>
+</pre>
+
+
+* Researched and demonstrated through a proof-of-concept how a separated process could tie into an existing Mule process then captilized on and gain reuse of existing processes with little effort.  This saved approximately a week in development time for the team.
+
+* Designed and audit solution using existing architecture whereby other developers could implement cross cutting across the application for logging and auditing information using special annotations.  This spring-boarded the implementation for an auditiing trail of bank information at the enterprise level.
+
+* Created personas, user scenarios, cross-functional workflows and storyboards using PowerPoint, Visio, and Pencil.  This surfaced a more detailed understanding of the process for requesting reports involving legal entity organization and anti-money laundry operations for the technical team.
+
+* Mentor four development teams in their adoption and omplementation of Agile.  This led to the creation of a separate release plan for each product, creation/loading of features/stories in Rally, and setting up a continuous integration build process using maven, ANT, and Jenkins. 
+
+* **Environment:** Eclipse 4.x, Intellij 2017.3.2, AnyPoint Studio, Maven-3.x, Oracle-11-g, JDK 1.7, Mule-3.6.1, AspectJ, Apache-Commons, Apache-ActiveMQ 5.1.2, Subversion, MS-Visio, SuperPutty, PowerShell, WinSCP, MS-Office, WebLogic-10.3, Windows-7, Redhat Linux 2.6.9, Pencil.
+
+
 
 ------
 #### Education

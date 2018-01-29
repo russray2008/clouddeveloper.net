@@ -1,12 +1,12 @@
 # Site settings
-title: Jekyll Doc Theme
+title: Russell ("Russ") A. Ray
 email: russray2008@gmail.com 
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  My journey from concept to reality on what it takes to build a static web site.
+  All of my adventures are the discoveries I made along the way of launching the website.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://clouddeveloper.net:80" # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
 #git_address: https://github.com/aksakalli/jekyll-doc-theme
 #git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
@@ -29,7 +29,10 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
+  - s3_website.yml
+  
 timezone: America/New_York
+
 defaults:
 - scope:
     path: _posts
@@ -46,6 +49,8 @@ defaults:
     sectionid: docs
     seo:
       type: "WebPage"
+
+   
 
 collections:
   docs:

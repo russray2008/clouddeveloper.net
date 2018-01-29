@@ -1,7 +1,9 @@
 <script>
   var baseurl = '{{ site.baseurl }}'
 </script>
-<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<!-- Pulled in the latest JQuery library into project instead of calling out for an older version. -->
+<script src="/js/jquery-3.3.1.min.js"></script>
+<!--<script src="//code.jquery.com/jquery-1.10.2.min.js"></script> -->
 <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }} "></script>
 <script src="{{ "/js/typeahead.bundle.min.js" | prepend: site.baseurl }} "></script>
 
