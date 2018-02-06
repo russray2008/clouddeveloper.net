@@ -6,7 +6,7 @@ description: >
   All of my adventures are the discoveries I made along the way of launching the website.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://clouddeveloper.net:80" # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
+url: localhost:4000 # "http://clouddeveloper.net:80" # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
 #git_address: https://github.com/aksakalli/jekyll-doc-theme
 #git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
