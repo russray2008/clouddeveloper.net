@@ -16,15 +16,16 @@ Very specialized tools list Jekyll, Jekyll themes, Visual Studio Code, Git, GIMP
 
 **Environment Setup**
 
-We will need a development environment.  I won't bore you with the details here on what it takes for setting up your envirnment in this blog post. Below are some basic steps for accomplishing the work.  For those developers who want the details, [here](/docs/setup) is the detail process.
+We will need a development environment.  I won't bore you with the details here on what it takes for setting up your environment in this blog post. Below are some basic steps for accomplishing the work.  For those developers who want the details, [here](/docs/setup) is the detail process.
 
 <table>
 <tr><th>Step</th> <th>Description</th></tr>
 <tr><td>1</td><td> Install Homebrew</td></tr>
-<tr><td>2</td><td> Install Node.js</td></tr>
-<tr><td>3</td><td> Install pip3</td></tr>
-<tr><td>4</td><td> Install Python3</td></tr>
-<tr><td>5</td><td> Install awscli</td></tr>
+<tr><td>2</td><td> Install pip3</td></tr>
+<tr><td>3</td><td> Install Python3</td></tr>
+<tr><td>4</td><td> Install awscli</td></tr>
+<tr><td>5</td><td> Install Ruby</td></tr>
+<tr><td>6</td><td> Install Node Package Manager</td></tr>
 </table>
 
 **Getting Started**
@@ -43,7 +44,7 @@ developers as I saw this a quick way to solving my challenges as I got started o
  
 **Creating a Simple Storage Service (S3)**
 
-Next, I looked at the different ways on creating a useful online
+Next, I looked at the different ways on creating a useful on-line
 presence using AWS. While AWS offers an endless amount of capability and
 functionality, I focused on steps that built upon the basics. This is
 when I targeted a static content and I can control or change occasionally.  One way is storing documents and images on AWS using a S3 service.  This is commonly known as <i>buckets</i> in AWS.  A couple things that you cannot store in the <i>buckets</i> is server side code, such has PHP or ASP.NET. 

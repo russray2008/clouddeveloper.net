@@ -1,15 +1,15 @@
 - title: Document Repository
   docs:
   - setup
-   #- home
+  #- home
   #- themes
   #- customization
 
 #- title: Examples
 #  docs:
-  #- cheatsheet
-  #- font-awesome
-  #- bootstrap
+#   - cheatsheet
+#   - font-awesome
+#   - bootstrap
 
 - title: Resume
   docs:
