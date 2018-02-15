@@ -6,7 +6,7 @@ description:
   All of my adventures are the discoveries I made along the way of launching the website.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://clouddeveloper.net"  # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
+url: "http://clouddeveloper.net"  # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
 git_address: https://github.com/russray2008/clouddeveloper.net
 linkedin_address: https://www.linkedin.com/in/russellaray/
 twitter_address: https://twitter.com/russray2008?lang=en

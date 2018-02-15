@@ -11,10 +11,10 @@ s3_bucket: clouddeveloper.net
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
 
-#site: _site
+# site: _site
 
 # index_document: index.html
-# error_document: error.html
+# error_document: 404.html
 
 # max_age:
 #   "assets/*": 6000
@@ -27,7 +27,7 @@ s3_bucket: clouddeveloper.net
 # gzip_zopfli: true
 
 # See http://docs.aws.amazon.com/general/latest/gr/rande.html#s3_region for valid endpoints
-# s3_endpoint: s3.us-east-1.amazonaws.com
+# s3_endpoint: s3-website-us-east-1.amazonaws.com
 
 ignore_on_server: logs
 
@@ -56,7 +56,7 @@ exclude_from_upload:
 
 # s3_reduced_redundancy: true
 
-cloudfront_distribution_id: E3ET1KUZSLR6JE
+#cloudfront_distribution_id: E3ET1KUZSLR6JE
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:
@@ -68,7 +68,7 @@ cloudfront_distribution_id: E3ET1KUZSLR6JE
 
 # cloudfront_invalidate_root: true
 
-cloudfront_wildcard_invalidation: true
+#cloudfront_wildcard_invalidation: true
 
 # concurrency_level: 5
 
