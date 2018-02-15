@@ -1,6 +1,7 @@
 ---
 title: <center>Russell ("Russ") A. Ray</center>
 permalink: /docs/myresume/
+
 ---
 <!-- Horizontal line -->
 ---

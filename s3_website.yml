@@ -11,7 +11,7 @@ s3_bucket: clouddeveloper.net
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
 
-#site: path-to-your-website
+#site: _site
 
 # index_document: index.html
 # error_document: error.html
@@ -48,12 +48,15 @@ exclude_from_upload:
    - .vscode
    - .git
    - .getignore
+   - nclighthouse-scaled.xcf
+   - nclighthouse.xcf
+   - cape_hatteras_lighthouse_outer_banks_nc_large.png
    - s3_website.yml
 
 
 # s3_reduced_redundancy: true
 
-cloudfront_distribution_id: E3TFF97UPLKGRY
+cloudfront_distribution_id: E3ET1KUZSLR6JE
 
 # cloudfront_distribution_config:
 #   default_cache_behavior:

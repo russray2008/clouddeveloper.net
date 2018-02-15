@@ -1,14 +1,16 @@
 # Site settings
 title: Russell ("Russ") A. Ray
 email: russray2008@gmail.com 
-description: >
+description:
   My journey from concept to reality on what it takes to build a static web site.
   All of my adventures are the discoveries I made along the way of launching the website.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://clouddeveloper.net:80 # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
-#git_address: https://github.com/aksakalli/jekyll-doc-theme
-#git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: "https://clouddeveloper.net"  # the base hostname & protocol for your site, e.g. http://example.com  localhost:4000
+git_address: https://github.com/russray2008/clouddeveloper.net
+linkedin_address: https://www.linkedin.com/in/russellaray/
+twitter_address: https://twitter.com/russray2008?lang=en
+git_edit_address: https://github.com/russray2008/clouddeveloper.net
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
