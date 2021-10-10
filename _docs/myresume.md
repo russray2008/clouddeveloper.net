@@ -1,8 +1,9 @@
 ---
-title: <center>Russell ("Russ") A. Ray</center>
+# Document Title: My Resume Russell A. Ray
+title: Russell A. Ray
 permalink: /docs/myresume/
-
 ---
+
 <!-- Horizontal line -->
 ---
 <center>7507 Meadowgate Lane </center>
