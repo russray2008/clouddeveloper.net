@@ -1,6 +1,6 @@
 ---
 # Document Title: My Resume Russell A. Ray
-title: Russell A. Ray
+title: <center>Russell A. Ray</center>
 permalink: /docs/myresume/
 ---
 
