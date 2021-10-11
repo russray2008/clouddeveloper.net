@@ -48,6 +48,7 @@ exclude_from_upload:
    - .vscode
    - .git
    - .getignore
+   - .markdownlint.json
    - nclighthouse-scaled.xcf
    - nclighthouse.xcf
    - cape_hatteras_lighthouse_outer_banks_nc_large.png
